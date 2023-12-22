@@ -8,22 +8,25 @@ I'm a passionate software developer with a focus on building robust and scalable
 <br><br>
 ## 💼 Skills
 
-- Programming Languages: Java, Python, JavaScript, PHP, TypeScript
+- Programming Languages:
 
-  <img src="https://techstack-generator.vercel.app/java-icon.svg" alt="icon" width="50" height="50" />
-  <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="50" height="50" />
-  <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="icon" width="50" height="50" />
-  <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon"width="50" height="50" />
+  <img src="https://www.vectorlogo.zone/logos/java/java-icon.svg" alt="Java logo" width="50" height="50" />
+  <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="Python logo" width="50" height="50" />
+  <img src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-icon.svg" alt="TypeScript logo" width="50" height="50" />
+  <img src="https://www.vectorlogo.zone/logos/javascript/javascript-icon.svg" alt="JavaScript logo" width="50" height="50" />
+  <img src="https://www.vectorlogo.zone/logos/php/php-icon.svg" alt="PHP logo" width="50" height="50" />
   
-- Frameworks: Django, React js, Tailwind CSS, Bootstrap
-  <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="50" height="50" />
-  <img src="https://techstack-generator.vercel.app/django-icon.svg" alt="icon" width="50" height="50" />
-  <img src="https://cdn.jsdelivr.net/npm/tailwindcss/dist/tailwind.min.css" alt="Tailwind CSS logo" width="50" height="50" />
-  <img src="https://getbootstrap.com/docs/5.1/assets/brand/bootstrap-logo.svg" alt="Bootstrap logo" width="50" height="50" />
+- Frameworks:
+  
+  <img src="https://www.vectorlogo.zone/logos/djangoproject/djangoproject-icon.svg" alt="Django logo" width="50" height="50" />
+  <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" alt="React.js logo" width="50" height="50" />
+  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwind CSS logo" width="50" height="50" />
+  <img src="https://www.vectorlogo.zone/logos/getbootstrap/getbootstrap-icon.svg" alt="Bootstrap logo" width="50" height="50" />
 - Software Development Processes: RUP (Rational Unified Process), Merise
-- Databases: MySQL, MongoDB
-  <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="50" height="50" />
-  <img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/mongodb_original_logo_icon_146424.png" alt="MongoDB logo" width="50" height="50" />
+- Databases:
+  
+  <img src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg" alt="MySQL logo" width="50" height="50" />
+  <img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" alt="MongoDB logo" width="50" height="50" />
 - Version Control:
   <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git logo" width="50" height="50" />
 
