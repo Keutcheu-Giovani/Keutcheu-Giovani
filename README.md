@@ -6,7 +6,8 @@ I'm a passionate software developer with a focus on building robust and scalable
 
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
 <br><br>
-## 💼 Skills
+
+## 💼Skills
 
 - Programming Languages:
 
@@ -22,12 +23,16 @@ I'm a passionate software developer with a focus on building robust and scalable
   <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" alt="React.js logo" width="50" height="50" />
   <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwind CSS logo" width="50" height="50" />
   <img src="https://www.vectorlogo.zone/logos/getbootstrap/getbootstrap-icon.svg" alt="Bootstrap logo" width="50" height="50" />
-- Software Development Processes: RUP (Rational Unified Process), Merise
+  
+- Software Development Processes: **RUP, Merise**
+  
 - Databases:
   
   <img src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg" alt="MySQL logo" width="50" height="50" />
   <img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" alt="MongoDB logo" width="50" height="50" />
+  
 - Version Control:
+  
   <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git logo" width="50" height="50" />
 
 ## 🧮 Github Stats
